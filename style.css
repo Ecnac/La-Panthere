@@ -440,6 +440,16 @@ nav .caret {
     margin-bottom: 20px;
 }
 
+.citation {
+    font-style: italic;
+    font-size: 1.3em;
+    color: rgba(0, 0, 0, 1);
+}
+
+.auteur {
+    font-size: 1.3em;
+}
+
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
