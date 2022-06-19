@@ -882,7 +882,9 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-
+    .bloc {
+        padding: 0, 20px;
+    }
     .bloc-group,
     .bloc-group .bloc {
         display: block;
